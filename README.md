@@ -1,8 +1,8 @@
 # Pickleball Match Tracker
 
 ![Python](https://img.shields.io/badge/python-3.13-blue)
-![Player Detection](https://img.shields.io/badge/player-YOLO11-green)
-![Ball Detection](https://img.shields.io/badge/ball-YOLO11-yellow)
+![Player Detection](https://img.shields.io/badge/player-YOLOv8-green)
+![Ball Detection](https://img.shields.io/badge/ball-YOLOv8-yellow)
 ![Court Keypoints](https://img.shields.io/badge/court-ResNet50-red)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
