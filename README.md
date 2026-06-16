@@ -121,7 +121,7 @@ Replace or combine the current ball detection pipeline with TrackNet to achieve 
 Extend the system toward real-time inference and interactive performance analysis for live pickleball matches.
 
 ## 🎥 Demo Output
-![Project Demo](docs/output_video.gif)
+![Project Demo](docs/demo.gif)
 
 
 
