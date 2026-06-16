@@ -10,10 +10,10 @@
 
 ## ✨ Features
 
-* 🎾 **Pickleball Ball Detection & Tracking** — Detect and track fast-moving pickleball across frames
-* 🧍 **Player Detection & Tracking** — Maintain player identities during the match
-* 🏟️ **Court Keypoint Detection** — Detect and reconstruct court geometry
-* 📍 **Mini Court Visualization** — Transform gameplay into a top-down court view
+*  **Pickleball Ball Detection & Tracking** — Detect and track fast-moving pickleball across frames
+*  **Player Detection & Tracking** — Maintain player identities during the match
+*  **Court Keypoint Detection** — Detect and reconstruct court geometry
+*  **Mini Court Visualization** — Transform gameplay into a top-down court view
 
 
 ## 🚀 Quick Start
