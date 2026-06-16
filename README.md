@@ -96,11 +96,11 @@ Pickleball-Match-Tracker/
 ## 📄 Future work
 * Player Pose Estimation & Fall Detection
 
-        Integrate YOLO Pose to estimate player body keypoints and analyze movement patterns for advanced action understanding. Future development will focus on detecting abnormal player motions such as sliding, falling, and collapse events during pickleball matches.
+Integrate YOLO Pose to estimate player body keypoints and analyze movement patterns for advanced action understanding. Future development will focus on detecting abnormal player motions such as sliding, falling, and collapse events during pickleball matches.
 
 * Improve Ball Detection using TrackNet
 
-        Replace or combine the current ball detection pipeline with TrackNet to achieve more accurate and robust pickleball localization, especially under conditions of small object size, fast movement, motion blur, and temporary ball disappearance.
+Replace or combine the current ball detection pipeline with TrackNet to achieve more accurate and robust pickleball localization, especially under conditions of small object size, fast movement, motion blur, and temporary ball disappearance.
 
 * Court Keypoint Refinement using Classical Computer Vision
     * Improve court keypoint precision through a post-processing pipeline:
@@ -117,8 +117,8 @@ Pickleball-Match-Tracker/
     * Improve stability under occlusion and partial court visibility
 
 * Real-Time Match Analytics
-        
-        Extend the system toward real-time inference and interactive performance analysis for live pickleball matches.
+
+Extend the system toward real-time inference and interactive performance analysis for live pickleball matches.
 
 ## 🎥 Demo Output
 ![Project Demo](docs/output_video.gif)
