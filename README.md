@@ -1,9 +1,10 @@
 # Pickleball Match Tracker
 
-![Build Status](https://img.shields.io/badge/build-active-brightgreen.svg)
-![Version](https://img.shields.io/badge/version-1.0-blue.svg)
-![Python](https://img.shields.io/badge/python-3.13-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Python](https://img.shields.io/badge/python-3.13-blue)
+![Player Detection](https://img.shields.io/badge/player-YOLO11-green)
+![Ball Detection](https://img.shields.io/badge/ball-YOLO11-yellow)
+![Court Keypoints](https://img.shields.io/badge/court-ResNet50-red)
+![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
 > An end-to-end computer vision system for automated pickleball match analysis using player tracking, ball tracking, and court detection.
 
