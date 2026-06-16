@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv-3.13/
+
+# Dataset
+PB-5/
+Preprocessing_dataset/
+Pickleball_coco/
+
+# Training outputs
+Runs_640/
+Runs_800/
+
+# Videos
+Video/
+
+# Zip files
+Runs_640.zip
+Runs_800.zip
+
+# Testing scripts
+test_camera.py
+test_video.py
+
+# Notebook files
+train-12keypoint-court.ipynb
+download_kaggle_dataset.ipynb
+
+kagglehub
+image
