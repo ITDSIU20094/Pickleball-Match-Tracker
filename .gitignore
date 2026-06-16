@@ -32,3 +32,8 @@ download_kaggle_dataset.ipynb
 kagglehub
 image
 document
+
+# Large binary assets
+docs/output_video.gif
+models/keypoints14_model.pth
+models/yolov8x.pt
